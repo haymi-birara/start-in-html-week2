@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.puppy-header {
+  background-color: rgb(0, 68, 136);
+  padding: 20px 0;
+}
+.puppy-header h1 {
+  color: white;
+  text-align: center;
+}
+.banner img {
+  width: 100%;
+}
+.second-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 40px 0;
+  gap: 10px;
+}
+.second-section img {
+  width: 270px;
+  height: 270px;
+  display: block;
+}
+.missingrapper {
+  width: 270px;
+  height: 270px;
+  display: flex;
+  justify-content: center;
+  background-color: red;
+  margin: 10px auto;
+}
+.missingpuppy {
+  color: black;
+  text-align: center;
+  font-size: 40px;
+  margin: auto 30px;
+}
+.third {
+  text-align: center;
+  margin: 40px;
+}
+.four {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  margin-bottom: 60px;
+}
+.four img {
+  width: 400px;
+  height: 400px;
+}
+.footer {
+  background-color: rgb(0, 68, 136);
+  padding: 30px;
+}
+.footer-p {
+  color: white;
+  text-align: center;
+  margin: 0;
+}
